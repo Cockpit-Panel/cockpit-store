@@ -1,7 +1,6 @@
 {
   "IPTV Apps": [],
-  "Miscellaneous": [],
-  "Panels": [
+  "Miscellaneous": [
     {
       "name": "Cockpit Panel",
       "description": "Built upon the beloved Cockpit v1.0a (Legacy), this successor offers a faster, smoother experience. Crafted from the ground up with a modular design, it's fully customizable to meet users unique needs. Packed with features for owners and users alike, it comes pre-installed with the Multi-service Proxy Module. Plus, enjoy the added versatility of Custom Android WebView Widgets.",
@@ -24,7 +23,9 @@
       "ytvideo": "https://www.youtube.com/channel/UCl2tN-GdiEJjR7LcjVC-sHA",
       "telegram": "https://t.me/ianwoneill",
       "purchase": "https://store.cockpit.lol/index.php?rp=/store/cockpit-base"
-    },
+    }
+  ],
+  "Panels": [
     {
       "name": "Cockpit Panel: Smarters Pro Module",
       "description": "Simplify customization with Cockpit Panel's Smarters Pro Module. Remotely configure services and settings for Smarters Pro, streamlining integration and enhancing user experiences from one intuitive platform.",
