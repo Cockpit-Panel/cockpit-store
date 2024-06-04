@@ -1,6 +1,6 @@
 {
   "IPTV Apps": [],
-  "Miscellaneous": [
+  "Miscsellaneous": [
     {
       "name": "Cockpit Panel",
       "description": "Built upon the beloved Cockpit v1.0a (Legacy), this successor offers a faster, smoother experience. Crafted from the ground up with a modular design, it's fully customizable to meet users unique needs. Packed with features for owners and users alike, it comes pre-installed with the Multi-service Proxy Module. Plus, enjoy the added versatility of Custom Android WebView Widgets.",
@@ -45,8 +45,219 @@
       ],
       "ytvideo": "https://www.youtube.com/channel/UCl2tN-GdiEJjR7LcjVC-sHA",
       "telegram": "https://t.me/ianwoneill",
-      "purchase": "https://store.cockpit.lol/cart.php?a=add&pid=12"
+      "purchase": "https://store.cockpit.lol/index.php?rp=/store/iptv-panel-modules/smarters-pro"
+    },
+    {
+      "name": "Cockpit Panel: Tivimate Module",
+      "description": "Simplify customization with Cockpit Panel's Tivimate Module. Remotely configure services and settings for Tivimate, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "75.00",
+      "selfhosted_offer": "50.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-83nbp-producto-15.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_15/664606a7a2ad3_2087.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/ianwoneill",
+      "purchase": "https://store.cockpit.lol/index.php?rp=/store/iptv-panel-modules/tivimate"
+    },
+    {
+      "name": "Cockpit Panel: XCIPTV Module",
+      "description": "Simplify customization with Cockpit Panel's xciptv Module. Remotely configure services and settings for xciptv, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "75.00",
+      "selfhosted_offer": "50.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-pk5v7-producto-16.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607ce0c464_3446.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607d6c7f2d_4046.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607de21ef1_6734.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607e44ce23_2821.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607eb13d0b_4677.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607f459b2a_3297.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/ianwoneill",
+      "purchase": "https://store.cockpit.lol/index.php?rp=/store/iptv-panel-modules/xciptv"
+    },
+    {
+      "name": "Cockpit Panel: Flix Vision Module",
+      "description": "Simplify customization with Cockpit Panel's Flix Vision Module. Remotely configure services and settings for Flix Vision, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "75.00",
+      "selfhosted_offer": "50.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-fgfav-producto-5.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_5/6645fe1d70d6e_8813.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_5/6645fe23dac3a_5271.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/ianwoneill",
+      "purchase": "https://store.cockpit.lol/index.php?rp=/store/panel-modules/flix-vision"
+    },
+    {
+      "name": "Cockpit Panel: CinemaHD Module",
+      "description": "Simplify customization with Cockpit Panel's CinemaHD Module. Remotely configure services and settings for CinemaHD, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "75.00",
+      "selfhosted_offer": "50.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-g23dg-producto-4.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_4/6645f9b60e2a2_8013.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_4/6645f9bc23af7_8343.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/ianwoneill",
+      "purchase": "https://store.cockpit.lol/index.php?rp=/store/panel-modules/cinemahd"
+    },
+    {
+      "name": "Cockpit Panel: NexTv Module",
+      "description": "Simplify customization with Cockpit Panel's NexTv Module. Remotely configure services and settings for NexTv, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "75.00",
+      "selfhosted_offer": "50.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-zrs74-producto-11.png",
+      "images": [""],
+      "ytvideo": "",
+      "telegram": "https://t.me/ianwoneill",
+      "purchase": "https://store.cockpit.lol/index.php?rp=/store/iptv-panel-modules/nextv-iptv"
+    },
+    {
+      "name": "Cockpit Panel: Sparkle Module",
+      "description": "Simplify customization with Cockpit Panel's Sparkle Module. Remotely configure services and settings for Sparkle, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "75.00",
+      "selfhosted_offer": "50.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-81i62-producto-13.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_13/664604ae0eec4_3637.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_13/664604b2da30a_1993.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/ianwoneill",
+      "purchase": "https://store.cockpit.lol/index.php?rp=/store/iptv-panel-modules/sparkle-tv"
+    },
+    {
+      "name": "Cockpit Panel: Stremio Module",
+      "description": "Simplify customization with Cockpit Panel's Stremio Module. Remotely configure services and settings for Stremio, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "75.00",
+      "selfhosted_offer": "50.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-urunl-producto-7.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_7/6645ff7bf090f_5829.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_7/6645ff8165e41_5950.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/ianwoneill",
+      "purchase": "https://store.cockpit.lol/index.php?rp=/store/panel-modules/stremio"
+    },
+    {
+      "name": "Cockpit Panel: iMPlayer Module",
+      "description": "Simplify management of iMPlayer application mods with Cockpit Panel's iMPlayer TV Module. Remotely configure services and settings for enhanced customization and seamless integration, all from one centralized platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "75.00",
+      "selfhosted_offer": "50.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-we4jg-producto-9.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_9/6646015da96bf_4527.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_9/66460162cd346_8297.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/ianwoneill",
+      "purchase": "https://store.cockpit.lol/index.php?rp=/store/panel-modules/stremio"
+    },
+    {
+      "name": "Cockpit Panel: IBO Module",
+      "description": "Simplify customization with Cockpit Panel's IBO Module. Remotely configure services and settings for IBO, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "100.00",
+      "selfhosted_offer": "75.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-sv3er-producto-8.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600adab728_2088.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600b948c6a_2861.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600be96177_6837.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600c42b492_3053.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/ianwoneill",
+      "purchase": "https://store.cockpit.lol/index.php?rp=/store/iptv-panel-modules/ibo-solutions"
     }
   ],
-  "VPN Apps": []
+  "VPN Apps": [
+    {
+      "name": "Cockpit Panel: IPVanish Module",
+      "description": "Simplify customization with Cockpit Panel's IPVanish Module. Remotely configure services and settings for IPVanish, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "75.00",
+      "selfhosted_offer": "50.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://i.imgur.com/2IJ66Ud.png",
+      "images": [
+        "https://i.imgur.com/PjD1Bj7.png",
+        "https://i.imgur.com/53SLhAP.png",
+        "https://i.imgur.com/KoINY6T.png",
+        "https://i.imgur.com/ZMeT3Iv.png",
+        "https://i.imgur.com/gvWOw9m.png",
+        "https://i.imgur.com/3vmVg9j.png",
+        "https://i.imgur.com/kDc7Eis.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/ianwoneill",
+      "purchase": "https://store.cockpit.lol/index.php?rp=/store/vpn-panel-modules/ipvanish"
+    },
+    {
+      "name": "Cockpit Panel: Private Internet Access Module",
+      "description": "Simplify customization with Cockpit Panel's PIA Module. Remotely configure services and settings for PIA, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "",
+      "hosted_offer": "",
+      "selfhosted": "75.00",
+      "selfhosted_offer": "50.00",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://i.imgur.com/2IJ66Ud.png",
+      "images": [
+        "https://i.imgur.com/PjD1Bj7.png",
+        "https://i.imgur.com/53SLhAP.png",
+        "https://i.imgur.com/KoINY6T.png",
+        "https://i.imgur.com/ZMeT3Iv.png",
+        "https://i.imgur.com/gvWOw9m.png",
+        "https://i.imgur.com/3vmVg9j.png",
+        "https://i.imgur.com/kDc7Eis.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/ianwoneill",
+      "purchase": "https://store.cockpit.lol/index.php?rp=/store/vpn-panel-modules/private-internet-access"
+    }
+  ]
 }
